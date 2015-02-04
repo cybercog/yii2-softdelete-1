@@ -1,0 +1,29 @@
+{
+  "name": "vlrondon/yii2-softdelete",
+  "description": "Yii2 Soft Delete",
+  "keywords": [
+    "yii", "yii2",
+    "soft-delete", "softdelete"
+  ],
+  "type": "yii2-extension",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "amnah",
+      "email": "amnah.dev@gmail.com"
+    },
+    {
+      "name": "vlrondon",
+      "email": "vlrondon@gmail.com"
+    }
+  ],
+  "require": {
+    "yiisoft/yii2": "*"
+  },
+  "autoload": {
+    "psr-0": {
+      "vlrondon\\yii2\\": ""
+    }
+  },
+  "target-dir": "vlrondon/yii2"
+}
